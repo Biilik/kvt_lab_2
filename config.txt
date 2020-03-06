@@ -6,3 +6,5 @@
 [user]
 	email = cristian.noop@gmail.com
 	username = Biilik
+
+/target contains the temporary build files for the grails project
